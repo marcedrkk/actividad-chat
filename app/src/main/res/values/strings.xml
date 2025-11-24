@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chatsimple</string>
+    <string name="default_web_client_id">ingresar id desde firestore</string>
+</resources>
